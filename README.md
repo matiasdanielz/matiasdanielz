@@ -1,13 +1,5 @@
-### Hi there 👋
-
-<!--
-**matiasdanielz/matiasdanielz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Linguagens de programação:
-        Python.
-        SQL.
-        C++
-        C#
-        Flutter / Dart
+<div align="center">
+  <a href="https://github.com/matiasdanielz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matiasdanielz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasdanielz&layout=compact&langs_count=7&theme=dracula"/>
+</div>
