@@ -1,6 +1,6 @@
 ## Olá eu sou o Daniel Matias.
 
- - 🧑‍💼 Hoje trabalho com back-end e mobile.
+ - 🧑‍💼 Desenvolvedor Protheus na Totvs RS
  - 📙 Atualmente estou estudando programação mobile junto de Front-end.
  - 📳Contate-me em:
  -      E-mail: danielmatiascaxiasdosul@gmail.com
