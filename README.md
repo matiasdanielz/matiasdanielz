@@ -3,9 +3,10 @@
  - 🧑‍💼 Desenvolvedor Protheus na Totvs RS
  - 📙 Atualmente estou estudando programação mobile junto de Front-end.
  - 📳Contate-me em:
- -      E-mail: danielmatiascaxiasdosul@gmail.com
+ -      E-mail: daniel.matias.simon@gmail.com
  -      WhatsApp: 054 9 9192-2772
  -      linkedin: https://www.linkedin.com/in/carlos-daniel-matias-simon-4446a21a7/
+ -      portfolio: https://portfoliodanielmatias.web.app/
 
 <div align="center">
   <a href="https://github.com/matiasdanielz">
